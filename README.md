@@ -14,7 +14,7 @@ A Python GUI app to download YouTube videos as MP3s.
 - ffmpeg
 
 ## How to Run
-Double-click the `.exe` in `dist/` or run `vieyt2mp3.py` with Python.
+Double-click the `.exe` or run `vieyt2mp3.py` with Python.
 
 ## Icon
 Icon is marimari_en.
